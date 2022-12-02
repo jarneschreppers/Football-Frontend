@@ -10,7 +10,7 @@ To get the React frontend up and running, you'll need to create a **.env** file 
 API_URL=http://localhost:5000
 ```
 
-## **Starting the frontend**
+## **Starting the backend**
 
 Open a bash terminal inside the folder that contains "app.py" and execute the following commands:
 
