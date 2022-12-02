@@ -7,7 +7,7 @@
 To get the React frontend up and running, you'll need to create a **.env** file in you root project directory (on the same level as .gitignore). It's the same file we've created in the backend (with the database config). For the frontend, we only need to define the API_URL indicating where the backend is running.
 
 ```
-API_URL=http://localhost:3000
+API_URL=http://localhost:5000
 ```
 
 ## **Starting the frontend**
